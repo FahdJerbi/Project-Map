@@ -1,0 +1,10 @@
+.leaflet-container {
+  height: 90vh;
+  width: 78vw;
+}
+
+.content {
+  /* height: 500px;
+  width: 500px; */
+  margin-top: 64px;
+}
